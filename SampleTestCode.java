@@ -1,9 +1,13 @@
 /*
 DESCRIPTION:
 This is a java class unit test suite for the simplest reservation room finding strategy possible; first available.
-It's a classic example of how something very trivial can be full of edge-cases. Note how every test signature and body is self-explaining. Also, no test is longer than 3 lines of code and follow a gherkin pattern according to the name of the test.
 
-Finally, this code is 100% mutation tested, meaning that any mutation made to the tested code would actually make one or more test fail.
+It's a classic example of how something very trivial can be full of edge-cases. Note how every test signature
+and body is self-explaining. Also, no test is longer than 3 lines of code and follow a gherkin pattern according
+to the name of the test.
+
+Finally, this code is 100% mutation tested, meaning that any mutation made to the tested code would
+actually make one or more test fail.
 
 */
 
